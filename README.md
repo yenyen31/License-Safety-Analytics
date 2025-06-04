@@ -2,6 +2,7 @@
 - 프로젝트 진행: 개인(소프트웨어융합학과 이예은)
 - 기획서 수정중: 2025.6.4 업데이트
 
+</br>
 
 # License-Safety-Analytics
 License &amp; Safety Analytics – 지역별 면허소지자 프로파일과 교통안전 상관관계 분석
